@@ -17,7 +17,8 @@
     color: rgba(0,0,0,0.7);
   }
   h2 {
-    font-size: 17px;
+    margin-bottom: 30px;
+    font-size: 15px;
     font-weight: bold;
     color: rgba(0,0,0,0.6);
   }
@@ -28,6 +29,6 @@
     font-size: 15px;
   }
   .fa-heart {
-    color: #D23333;
+    color: $orange;
   }
 }
